@@ -1,6 +1,7 @@
 const corsOptions = {
   origin: (origin, cb) => {
     const allowedOrigins = [
+      'https://wert723jim.github.io', // 線上前端
       'http://localhost:8080',
       'http://127.0.0.1:8080',
       'http://localhost:3000',
