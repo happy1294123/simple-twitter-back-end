@@ -7,10 +7,10 @@
     "dialect": "mysql"
   },
   "remote": {
-    "username": "sql12624975",
-    "password": "VC3adthm3A",
-    "database": "sql12624975",
-    "host": "sql12.freemysqlhosting.net",
+    "username": "freedb_simple_twitter",
+    "password": "r73d6f?fmVANVpB",
+    "database": "freedb_simple-twitter",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "test": {
